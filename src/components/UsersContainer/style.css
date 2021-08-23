@@ -1,0 +1,13 @@
+.listContainer {
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.noResultsInfo {
+    line-height: 40px;
+    text-align: center;
+    color: #eb4d4b;
+}

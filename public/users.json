@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "ragnar",
+            "surname": "lothbrok",
+            "details": {
+                "profession": "danish viking king"
+            }
+        },
+        {
+            "id": 2,
+            "name": "walter",
+            "surname": "white",
+            "details": {
+                "profession": "chemist, drug dealer"
+            }
+        },
+        {
+            "id": 3,
+            "name": "sherlock",
+            "surname": "holmes",
+            "details": {
+                "profession": "detective"
+            }
+        },
+        {
+            "id": 4,
+            "name": "ciro",
+            "surname": "di Marzio",
+            "details": {
+                "profession": "italian gangster"
+            }
+        }
+    ]
+}
